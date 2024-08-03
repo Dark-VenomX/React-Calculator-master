@@ -10,11 +10,6 @@
 #### Deployment Link:
  - Link : [https://react-calculator-omega-navy.vercel.app/](https://react-calculator-master-mu.vercel.app/)
 
-
-![Project Preview](./src/calc-app.png)
-
-
-
 <p align="center">
-  Show some :heart: by starring the repository.
+  Show some :heart: by starring and sharing the repository.
 </p>
