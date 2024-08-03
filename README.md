@@ -8,7 +8,7 @@
  - CSS
 
 #### Deployment Link:
- - Link : https://react-calculator-omega-navy.vercel.app/
+ - Link : [https://react-calculator-omega-navy.vercel.app/](https://react-calculator-master-mu.vercel.app/)
 
 
 ![Project Preview](./src/calc-app.png)
